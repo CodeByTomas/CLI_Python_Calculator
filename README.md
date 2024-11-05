@@ -1,4 +1,4 @@
- ### Simple CLI Calculator
+ ### Simple CLI Calculator 🔢
 
 This repository contains a simple command-line interface (CLI) calculator implemented in Python. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
