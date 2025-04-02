@@ -11,8 +11,8 @@ This repository contains a simple command-line interface (CLI) calculator implem
 #### Usage:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/CodeByTomas/simple-cli-calculator.git
-    cd simple-cli-calculator
+    git clone https://github.com/CodeByTomas/simple_cli_calculator.git
+    cd simple-_cli_calculator
     ```
 
 2. Run the calculator:
